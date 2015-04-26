@@ -17,11 +17,11 @@
     "syslog"
   ],
   "dependencies": {
-    "node-syslog": "1.1"
+    "node-syslog": "1.2"
   },
   "devDependencies": {
-    "winston": "0.7",
-    "vows": "0.6.x"
+    "winston": "1.0",
+    "vows": "0.8.x"
   },
   "author": "Vadim Geshel",
   "license": "MIT",
